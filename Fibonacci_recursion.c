@@ -1,5 +1,5 @@
 //C program for Fibonacci series using recursion
-//Fibonacci series upto 5:1 1 2 3 5 8  
+//Fibonacci series upto 7:0 1 1 2 3 5 8  
 #include<stdio.h>
 int fibonacci(int n)
 {
