@@ -16,7 +16,7 @@ int main()
     printf("Enter the fibonacci series upto");
     scanf("%d",&n);
     printf("Fibonacci series is ");
-    for(i=1;i<=n;i++)
+    for(i=0;i<=n;i++)
     printf("%d ",fibonacci(i));
     return 0;
 }
